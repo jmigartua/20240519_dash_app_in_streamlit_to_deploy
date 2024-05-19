@@ -1,12 +1,189 @@
-streamlit
-dash==2.17.0
-dash-ag-grid==31.2.0
-dash-bootstrap-components==1.6.0
+aiofiles==22.1.0
+aiosqlite==0.19.0
+altair==5.3.0
+analytics-python==1.4.post1
+ansi2html==1.8.0
+anyio==3.6.2
+appdirs==1.4.4
+appnope==0.1.3
+argon2-cffi==21.3.0
+argon2-cffi-bindings==21.2.0
+arrow==1.2.3
+asttokens==2.2.1
+attrs==23.1.0
+Babel==2.12.1
+backcall==0.2.0
+backoff==1.10.0
+beautifulsoup4==4.12.2
+bleach==6.0.0
+blinker==1.8.2
+Bottleneck @ file:///Users/ec2-user/ci_py311/bottleneck_1678322312632/work
+brotlipy==0.7.0
+cachetools==5.3.3
+certifi @ file:///Users/ec2-user/ci_py311/certifi_1678321191472/work/certifi
+cffi @ file:///Users/ec2-user/ci_py311/cffi_1678315312775/work
+cfgv==3.4.0
+chardet==5.2.0
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.1.7
+colorama==0.4.6
+comm==0.1.3
+contourpy==1.1.1
+cryptography @ file:///Users/ec2-user/ci_py311_2/cryptography_1679335457662/work
+cycler==0.12.1
+dash==2.13.0
+dash-bootstrap-components==1.5.0
 dash-core-components==2.0.0
 dash-html-components==2.0.0
-pandas
-numpy
-plotly
-matplotlib
-
-
+dash-iconify==0.1.2
+dash-mantine-components==0.12.0
+dash-table==5.0.0
+dash-tools==1.12.0
+dash_ag_grid==31.2.0
+debugpy==1.6.7
+decorator==5.1.1
+defusedxml==0.7.1
+distlib==0.3.8
+docopt==0.6.2
+et-xmlfile==1.1.0
+executing==1.2.0
+fastjsonschema==2.16.3
+filelock==3.14.0
+Flask==2.2.5
+fonttools==4.43.1
+fqdn==1.5.1
+gitdb==4.0.11
+GitPython==3.1.43
+gunicorn==22.0.0
+identify==2.5.36
+idna @ file:///Users/ec2-user/ci_py311/idna_1678315819133/work
+iniconfig==2.0.0
+ipykernel==6.22.0
+ipython==8.12.0
+ipython-genutils==0.2.0
+ipywidgets==8.1.1
+isoduration==20.11.0
+itsdangerous==2.1.2
+jedi==0.18.2
+Jinja2==3.1.2
+joblib==1.3.2
+json5==0.9.11
+jsonpointer==2.3
+jsonschema==4.17.3
+jupyter==1.0.0
+jupyter-console==6.6.3
+jupyter-dash==0.4.2
+jupyter-events==0.6.3
+jupyter-ydoc==0.2.4
+jupyter_client==8.2.0
+jupyter_core==5.3.0
+jupyter_server==2.5.0
+jupyter_server_fileid==0.9.0
+jupyter_server_terminals==0.4.4
+jupyter_server_ydoc==0.8.0
+jupyterlab==3.6.3
+jupyterlab-pygments==0.2.2
+jupyterlab-widgets==3.0.9
+jupyterlab_server==2.22.1
+kaleido==0.2.1
+kiwisolver==1.4.5
+markdown-it-py==3.0.0
+MarkupSafe==2.1.2
+matplotlib==3.8.0
+matplotlib-inline==0.1.6
+mdurl==0.1.2
+mistune==2.0.5
+mitoinstaller==0.0.258
+mitosheet==0.1.524
+mkl-fft==1.3.1
+mkl-random @ file:///Users/ec2-user/ci_py311/mkl_random_1678372701757/work
+mkl-service==2.4.0
+monotonic==1.6
+nbclassic==0.5.5
+nbclient==0.7.4
+nbconvert==7.3.1
+nbformat==5.8.0
+nest-asyncio==1.5.6
+nodeenv==1.8.0
+notebook==6.5.4
+notebook_shim==0.2.3
+numexpr @ file:///Users/ec2-user/ci_py311/numexpr_1682023368395/work
+numpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_bdk7p7tnsw/croot/numpy_and_numpy_base_1682520579379/work
+openpyxl==3.1.2
+packaging==21.3
+pandas==1.5.3
+pandocfilters==1.5.0
+parso==0.8.3
+pexpect==4.8.0
+pickleshare==0.7.5
+Pillow==10.0.1
+pipreqs==0.4.12
+platformdirs==4.2.2
+plotly @ file:///Users/ec2-user/ci_py311/plotly_1678382250051/work
+pluggy==1.5.0
+pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
+pre-commit==2.16.0
+prometheus-client==0.16.0
+prompt-toolkit==3.0.38
+protobuf==4.25.3
+psutil==5.9.5
+ptyprocess==0.7.0
+pure-eval==0.2.2
+py==1.11.0
+pyarrow==16.1.0
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydeck==0.9.1
+Pygments==2.15.1
+pyOpenSSL @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_19gfn1ib_u/croot/pyopenssl_1678965300171/work
+pyparsing==3.1.1
+pyrsistent==0.19.3
+PySocks @ file:///Users/ec2-user/ci_py311/pysocks_1678315868424/work
+pytest==6.2.5
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-json-logger==2.0.7
+pytz @ file:///Users/ec2-user/ci_py311/pytz_1678318034461/work
+PyYAML==6.0
+pyzmq==25.0.2
+qtconsole==5.4.4
+QtPy==2.4.0
+reportlab==4.0.7
+requests @ file:///Users/ec2-user/ci_py311_2/requests_1679337454610/work
+retrying==1.3.4
+rfc3339-validator==0.1.4
+rfc3986-validator==0.1.1
+rich==13.7.1
+ruamel.yaml==0.17.21
+scikit-learn==1.3.2
+scipy==1.10.1
+Send2Trash==1.8.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+smmap==5.0.1
+sniffio==1.3.0
+soupsieve==2.4.1
+stack-data==0.6.2
+streamlit==1.34.0
+tenacity==8.3.0
+termcolor==1.1.0
+terminado==0.17.1
+threadpoolctl==3.2.0
+tinycss2==1.2.1
+toml==0.10.2
+toolz==0.12.1
+tornado==6.3.1
+traitlets==5.9.0
+typing_extensions==4.8.0
+uri-template==1.2.0
+urllib3 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_61c6ppfd7m/croot/urllib3_1680254700568/work
+virtualenv==20.26.2
+visdcc==0.0.50
+wcwidth==0.2.6
+webcolors==1.13
+webencodings==0.5.1
+websocket-client==1.5.1
+Werkzeug==2.2.3
+widgetsnbextension==4.0.9
+XlsxWriter==3.1.3
+y-py==0.5.9
+yarg==0.1.9
+yolk3k==0.9
+ypy-websocket==0.8.2
