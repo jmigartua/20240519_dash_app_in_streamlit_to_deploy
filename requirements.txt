@@ -17,19 +17,19 @@ backoff==1.10.0
 beautifulsoup4==4.12.2
 bleach==6.0.0
 blinker==1.8.2
-Bottleneck @ file:///Users/ec2-user/ci_py311/bottleneck_1678322312632/work
+Bottleneck
 brotlipy==0.7.0
 cachetools==5.3.3
-certifi @ file:///Users/ec2-user/ci_py311/certifi_1678321191472/work/certifi
-cffi @ file:///Users/ec2-user/ci_py311/cffi_1678315312775/work
+certifi
+cffi
 cfgv==3.4.0
 chardet==5.2.0
-charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+charset-normalizer 
 click==8.1.7
 colorama==0.4.6
 comm==0.1.3
 contourpy==1.1.1
-cryptography @ file:///Users/ec2-user/ci_py311_2/cryptography_1679335457662/work
+cryptography
 cycler==0.12.1
 dash==2.13.0
 dash-bootstrap-components==1.5.0
@@ -56,7 +56,7 @@ gitdb==4.0.11
 GitPython==3.1.43
 gunicorn==22.0.0
 identify==2.5.36
-idna @ file:///Users/ec2-user/ci_py311/idna_1678315819133/work
+idna
 iniconfig==2.0.0
 ipykernel==6.22.0
 ipython==8.12.0
@@ -96,7 +96,7 @@ mistune==2.0.5
 mitoinstaller==0.0.258
 mitosheet==0.1.524
 mkl-fft==1.3.1
-mkl-random @ file:///Users/ec2-user/ci_py311/mkl_random_1678372701757/work
+mkl-random
 mkl-service==2.4.0
 monotonic==1.6
 nbclassic==0.5.5
@@ -107,8 +107,8 @@ nest-asyncio==1.5.6
 nodeenv==1.8.0
 notebook==6.5.4
 notebook_shim==0.2.3
-numexpr @ file:///Users/ec2-user/ci_py311/numexpr_1682023368395/work
-numpy @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_bdk7p7tnsw/croot/numpy_and_numpy_base_1682520579379/work
+numexpr
+numpy
 openpyxl==3.1.2
 packaging==21.3
 pandas==1.5.3
@@ -119,9 +119,9 @@ pickleshare==0.7.5
 Pillow==10.0.1
 pipreqs==0.4.12
 platformdirs==4.2.2
-plotly @ file:///Users/ec2-user/ci_py311/plotly_1678382250051/work
+plotly
 pluggy==1.5.0
-pooch @ file:///tmp/build/80754af9/pooch_1623324770023/work
+pooch
 pre-commit==2.16.0
 prometheus-client==0.16.0
 prompt-toolkit==3.0.38
@@ -131,23 +131,23 @@ ptyprocess==0.7.0
 pure-eval==0.2.2
 py==1.11.0
 pyarrow==16.1.0
-pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pycparser
 pydeck==0.9.1
 Pygments==2.15.1
-pyOpenSSL @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_19gfn1ib_u/croot/pyopenssl_1678965300171/work
+pyOpenSSL
 pyparsing==3.1.1
 pyrsistent==0.19.3
-PySocks @ file:///Users/ec2-user/ci_py311/pysocks_1678315868424/work
+PySocks
 pytest==6.2.5
-python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-dateutil
 python-json-logger==2.0.7
-pytz @ file:///Users/ec2-user/ci_py311/pytz_1678318034461/work
+pytz
 PyYAML==6.0
 pyzmq==25.0.2
 qtconsole==5.4.4
 QtPy==2.4.0
 reportlab==4.0.7
-requests @ file:///Users/ec2-user/ci_py311_2/requests_1679337454610/work
+requests
 retrying==1.3.4
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
@@ -156,7 +156,7 @@ ruamel.yaml==0.17.21
 scikit-learn==1.3.2
 scipy==1.10.1
 Send2Trash==1.8.0
-six @ file:///tmp/build/80754af9/six_1644875935023/work
+six
 smmap==5.0.1
 sniffio==1.3.0
 soupsieve==2.4.1
@@ -173,7 +173,7 @@ tornado==6.3.1
 traitlets==5.9.0
 typing_extensions==4.8.0
 uri-template==1.2.0
-urllib3 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_61c6ppfd7m/croot/urllib3_1680254700568/work
+urllib3
 virtualenv==20.26.2
 visdcc==0.0.50
 wcwidth==0.2.6
