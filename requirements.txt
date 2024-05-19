@@ -95,9 +95,6 @@ mdurl==0.1.2
 mistune==2.0.5
 mitoinstaller==0.0.258
 mitosheet==0.1.524
-mkl-fft
-mkl-random
-mkl-service==2.4.0
 monotonic==1.6
 nbclassic==0.5.5
 nbclient==0.7.4
